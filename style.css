@@ -1,0 +1,17 @@
+body{
+ background-image:url(img1.jpg);
+}
+th{
+ background-color:red;
+}
+p:nth-childh(odd)
+{
+ background:yellow;
+}
+p:nth-child(even)
+{
+ background:pink;
+}
+a:link{
+ text-decoration:none;
+}
